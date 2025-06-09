@@ -1,5 +1,5 @@
 # 💫 About Me:
-👤 Name: Mohammad Mehdi Ghasemi  <br>🎂 Age: 22  <br>💻 Occupation: Web Developer (Back-end)  <br>🎓 Education: Computer Engineering Student at Zanjan University  <br>📍 Location: Zanjan, Iran  <br><br>Interests<br>- 🔧 Back-end Development  <br>- 🌐 Server Management  <br>- 🐧 Linux  <br>- 🗄️ Database Design  <br><br>Goals<br>- 🤝 Collaborate with major companies like Microsoft and Google  <br>- 🌍 Establish an international company on par with top global firms  <br><br><br><br>
+👤 Name: Mohammad Mehdi Ghasemi  <br>🎂 Date of birth: 2002-11-11  <br>💻 Occupation: Web Developer (Back-end)  <br>🎓 Education: Computer Engineering Student at Zanjan University  <br>📍 Location: Zanjan, Iran  <br><br>Interests<br>- 🔧 Back-end Development  <br>- 🌐 Server Management  <br>- 🐧 Linux  <br>- 🗄️ Database Design  <br><br>Goals<br>- 🤝 Collaborate with major companies like Microsoft and Google  <br>- 🌍 Establish an international company on par with top global firms  <br><br><br><br>
 
 
 ## 🌐 Socials:
